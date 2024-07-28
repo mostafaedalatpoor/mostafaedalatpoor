@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mostafaedalatpoor
--  I'm c# (asp.net core) programer
-- 🌱 I’m currently in the way of becoming web devloper
-- 👀 I’m interested in network & security
+- 👀 I’m interested in network & product managment
 - 📫 How to reach me : @mostafaedalatpoor@gmail.com/@mostafaedalatpoor on social network
 
 
